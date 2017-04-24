@@ -1,6 +1,6 @@
-# vue-shoppingcart
+# vue2.x + axios + vue router2.x 
 
-> Vue2.0 learn and practice. This repo mainly contains a todo-list,a shopping-cart and somethings to add up to.Thanks for MARK FORK PR COMMENT.
+> Vue2.0 learn and practice. This repo mainly contains a todo-list,a shopping-cart and somethings to add up to.Thanks for Star,Fork, PR,COMMENT.
 
 ## Build Setup
 
