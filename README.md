@@ -1,4 +1,4 @@
-# 简易todo-list,购物车和地址选配功能
+# 主要包括：简易todo-list,购物车和地址选配功能等。
 
 > Vue2.0 learn and practice. This repo mainly contains a todo-list,a shopping-cart and somethings to add up to.Welcome to Star,Fork, PR,COMMENT.
 
